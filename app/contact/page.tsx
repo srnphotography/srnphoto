@@ -9,7 +9,7 @@ export default function ContactPage() {
         <div
           className="h-full w-full"
           style={{
-            backgroundImage: `url('https://scontent.fmaa2-1.fna.fbcdn.net/v/t39.30808-6/438031964_920155060118468_460302591822590512_n.png')`,
+            backgroundImage: `url('public/images/SRN logo Png-1 (1).png')`,
             backgroundSize: "cover",
             backgroundPosition: "center",
             opacity: 0.1,
